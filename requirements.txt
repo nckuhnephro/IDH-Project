@@ -1,0 +1,7 @@
+﻿gradio
+pandas
+numpy
+scikit-learn
+interpret
+plotly
+joblib
